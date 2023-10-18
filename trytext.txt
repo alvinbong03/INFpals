@@ -1,0 +1,2 @@
+git branch -> check existing branch
+git branch <name> -> create a branch with given name
