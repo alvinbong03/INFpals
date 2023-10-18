@@ -1,0 +1,7 @@
+Procedure : add . -> commit -m -> push -u origin
+
+git branch -> check existing branch
+	(branch name in green = current branch that computer is looking at)
+		to change: git checkout <branch name>
+			then do changes to file, then save to that branch (to check: go to top left corner in github, switch to diff 				branches)
+git branch <name> -> create a branch with given name
