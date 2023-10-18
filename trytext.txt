@@ -1,2 +1,4 @@
 git branch -> check existing branch
+	(branch name in green = current branch that computer is looking at)
+		to change: git checkout <branch name>
 git branch <name> -> create a branch with given name
