@@ -1,4 +1,5 @@
 git branch -> check existing branch
 	(branch name in green = current branch that computer is looking at)
 		to change: git checkout <branch name>
+		to delete: git branch -d <branch name> (but can still be seen on github)
 git branch <name> -> create a branch with given name
